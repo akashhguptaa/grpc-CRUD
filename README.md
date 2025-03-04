@@ -1,5 +1,6 @@
----
-![image](https://github.com/user-attachments/assets/fae68a0e-d1a7-43bb-8448-c4f5299763c6)
+
+![image](https://github.com/user-attachments/assets/b8cb7f11-a887-495a-a075-c320f25ded42)
+
 
 ## **Notes App - Next.js + gRPC + SQLite**
 A full-stack **Notes App** built with:
